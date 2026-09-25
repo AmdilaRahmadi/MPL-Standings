@@ -42,3 +42,6 @@ The workbook is intended for learning and portfolio purposes and is not an offic
 ## Disclaimer
 
 This is a fan-made portfolio project inspired by MPL. It is not affiliated with or endorsed by Moonton or Mobile Legends: Bang Bang.
+
+### 2026-09-25
+- Added MPL ID S17 Franchise only
