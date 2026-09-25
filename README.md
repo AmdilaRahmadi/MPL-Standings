@@ -13,8 +13,8 @@ This workbook demonstrates intermediate Microsoft Excel skills through:
 - Automatic standings ranking
 - Tiebreaker system:
   1. Matches Win
-  2. Difference
-  3. Head-to-Head
+  2. Netgame Win
+  3. H2H
   4. Alphabetical order
 - Tiebreak match simulation
 - Playoff simulation
