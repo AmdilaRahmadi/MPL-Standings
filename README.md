@@ -31,14 +31,6 @@ This project was created as part of my personal portfolio to demonstrate my abil
 
 The workbook is intended for learning and portfolio purposes and is not an official MPL system or real-time data source.
 
-## Tools
-
-- Microsoft Excel
-- Excel formulas
-- Conditional Formatting
-- Data Validation
-- Sorting & Ranking
-
 ## Disclaimer
 
 This is a fan-made portfolio project inspired by MPL. It is not affiliated with or endorsed by Moonton or Mobile Legends: Bang Bang.
