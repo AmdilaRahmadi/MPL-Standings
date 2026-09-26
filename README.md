@@ -40,3 +40,4 @@ This is a fan-made portfolio project inspired by MPL. It is not affiliated with 
 ### 2026-09-26
 - Added MPL PH S18
 - Added MPL MY S18
+- Update H2H Formula
